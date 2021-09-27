@@ -32,7 +32,10 @@ public List<int[]> getFlaggedCelss() {
 }
 ```
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9665a48a-6c23-411f-88a5-d8f4d12f8f54/Untitled.png)
+
+![Untitled1](https://media.vlpt.us/post-images/rajephon/c9322c30-5913-11e9-8a43-033dcf59c588/banner-image.jpg)
+
+코드의 단순성은 변하지 않았다. 들여쓰기 단계도 동일, 하지만 코드는 더 명확해졌다.
 
 코드의 단순성은 변하지 않았다. 들여쓰기 단계도 동일, 하지만 코드는 더 명확해졌다.
 
@@ -57,7 +60,7 @@ public List<Cell> getFlaggedCelss() {
   - ex) genymdhms (generate date, year, month, day, hour, minute, second)
   - 회의할 때 "젠야므드흠드스"라고 불렀다고 한다. 🤮
 
-  ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/bc0bf72b-da43-4dbd-b0fe-7d2ea66ed682/Untitled.png)
+  ![Untitled](https://t1.daumcdn.net/liveboard/interstella-story/461ea0b8ea884d6da9c3655af1e20d78.jpg)
 
   - 왜 줄이는지는 알겠지만, 그래도 형편없는 이름이다. 줄일바에 길지만 명확한게 낫고, 이름길이는 범위 크기에 비례해야한다
 
@@ -76,7 +79,7 @@ public List<Cell> getFlaggedCelss() {
 
 - 가끔 재밌는 메서드 이름을 쓰고 싶지만.. 꾹 참구 .. 제발 정적이고 명료한 이름으로..
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/14936166-7512-45c3-9297-3c6db0dd7e81/Untitled.png)
+![Untitled](https://storage.googleapis.com/jjalbot-jjals/2018/12/zchfKs5FD/zzal.png)
 
 ## 🌱 한 개념에 한 단어를 사용하라
 
