@@ -34,8 +34,8 @@ public List<int[]> getFlaggedCelss() {
 
 
 ![Untitled1](https://media.vlpt.us/post-images/rajephon/c9322c30-5913-11e9-8a43-033dcf59c588/banner-image.jpg)
-![Untitled2](https://ibb.co/S79yBn6)
-
+![SooHee](https://ibb.co/S79yBn6)
+![Soohee-upgrade](https://i.ibb.co/R4Vbc0g/Screen-Shot-2021-09-27-at-1-44-15-PM.png)
 코드의 단순성은 변하지 않았다. 들여쓰기 단계도 동일, 하지만 코드는 더 명확해졌다.
 
 코드의 단순성은 변하지 않았다. 들여쓰기 단계도 동일, 하지만 코드는 더 명확해졌다.
