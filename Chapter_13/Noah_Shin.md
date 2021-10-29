@@ -36,7 +36,68 @@
 
 ==============================================================
 
+## 자 일단..에이쟉스 콜링 한번 해보입시다
 
+```jsx
+// ajax(..) is some arbitrary Ajax function given by a library
+var response = ajax('https://example.com/api');
+
+console.log(response);
+// `response` won't have the response
+```
+
+이렇게 하면 제 기억에는 파이썬은 결과가 프린트 됬었던거 같은데...
+
+자스는 어림도 없지.
+
+저 api 콜의 응답을 기다리지 않구 바로 콘솔로그 뱉어버림 (완전한 동기가 아니라서)
+
+그럼 뭐가 찍히냐  → undefined
+
+우리 목표는 저 api 콜의 응답을 찍고 싶은데, 그걸 "기다릴"려면 이때 쓰는게 
+
+### 콜백 함수
+
+```jsx
+ajax('https://example.com/api', function(response) {
+    console.log(response); // `response` is now available
+});
+```
+
+이렇게 짜면, 저 response 가 담기자 마자 콘솔로그 찍힘 ! 
+
+그럼 아작스 말고 다른 예 😉
+
+자스의 숙명,,, setTimeout(callback, milliseconds) 함수
+
+자스 공부하면 항상 셋타임아웃 나오는데, 어떻게 쓰는 법만 나오고 작동원리는 찾기 힘들다
+
+근데 이따 아래에서 설명함
+
+```jsx
+function first() {
+    console.log('first');
+}
+function second() {
+    console.log('second');
+}
+function third() {
+    console.log('third');
+}
+first();
+setTimeout(second, 1000); // Invoke `second` after 1000ms
+third();
+```
+
+```jsx
+first
+third
+second
+```
+
+first 찍고, second 1초 있다, third 찍고
+
+## **What is the Event Loop?**
 
 # 
 # 
