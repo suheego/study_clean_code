@@ -24,7 +24,9 @@ Robert C. Martin의 저서 Clean Code를 읽고 스터디를 한 결과물을 �
 - [Chapter_8 [신재훈]](https://github.com/suheego/study_clean_code/blob/main/Chapter_8/Noah_Shin.md)
 - [Chapter_9 [고수희]](https://github.com/suheego/study_clean_code/blob/main/Chapter_9/SuHee_Go.md)
 
-
+- [Chapter_10[고수희]](https://github.com/suheego/study_clean_code/blob/main/Chapter_10/SuHee_Go.md)
+- [Chapter_11[김민서]](https://github.com/suheego/study_clean_code/blob/main/Chapter_11/Minseo_Kim.md)
+- [Chapter_12[신재훈]](https://github.com/suheego/study_clean_code/blob/main/Chapter_12/Noah_Shin.md)
 
 # Member
 
